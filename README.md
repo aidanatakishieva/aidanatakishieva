@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Frontend Development.
 - 🛸 Learning everyday, currently learning to master React, JS etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 💬 Ask me about web design.
+- 🎓 I’m currently studying Azerbaijan State Oil and Industry University (ASOIU) (4th course).
+- 💬 Ask me about web design (HTML,CSS,Bootstrap).
 
 
 Motivated to expand knowledge about Frontend Developer with a demonstrated history of working in the information technology and services industry. Skilled in HTML,CSS,Bootstrap, SASS, Github, and Front-end Development. Such as, learning develop Javascript skills,React. Strong engineering professional with a Bachelor's degree focused in Information Technology from Azerbaijan State University of Oil and Industry. Motivated to learn like as product design.I can work independently using my own initiative or as part of a team.  I love trying out new technologies and update with modern tools helping our lives more easier.
