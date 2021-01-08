@@ -1,7 +1,5 @@
 ### Hi there, I'm Aidan 👋
 
-[![HitCount](http://hits.dwyl.com/aidanatakishieva/aidanatakishieva.svg)](http://hits.dwyl.com/aidanatakishieva/aidanatakishieva)
-
 - 🌱 I’m currently learning Frontend Development.
 - 🛸 Learning everyday, currently learning to master React, JS etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
