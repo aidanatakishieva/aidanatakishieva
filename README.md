@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Development.
 - 🛸 Learning everyday, currently learning to master React, JS etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 🎓 I’m currently studying Azerbaijan State Oil and Industry University (ASOIU) (4th course).
+- 🎓 I’m currently studying Azerbaijan State Oil and Industry University (ASOIU).
 - 💬 Ask me about web design (HTML,CSS,Bootstrap).
 
 
