@@ -1,13 +1,13 @@
 ### Hi there, I'm Aidan 👋
 
-- 🌱 I’m currently learning Frontend Development.
-- 🛸 Learning everyday, currently learning to master React, JS etc ...
+- 🌱 I’m currently learning/working Mobile Development.
+- 🛸 Learning everyday...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 🎓 I’m currently studying Azerbaijan State Oil and Industry University (ASOIU).
-- 💬 Ask me about web design (HTML,CSS,Bootstrap).
+- 🎓 I graduated Azerbaijan State Oil and Industry University (IT).
+- 📫 Reach me: aidan.atakishieva@gmail.com
+- 💬 Ask me about web/mobile development.
 
-
-Motivated to expand knowledge about Frontend Developer with a demonstrated history of working in the information technology and services industry. Skilled in HTML,CSS,Bootstrap, SASS, Github, and Front-end Development. Such as, learning develop Javascript skills,React. Strong engineering professional with a Bachelor's degree focused in Information Technology from Azerbaijan State University of Oil and Industry. Motivated to learn like as product design.I can work independently using my own initiative or as part of a team.  I love trying out new technologies and update with modern tools helping our lives more easier.
+Motivated to expand knowledge about Web & Mobile development with a demonstrated history of working in the information technology and services industry. Skilled in HTML, CSS, Bootstrap, Tailwind, SCSS, Figma, Github, Gitlab, Vue.js(basic), JS and Front-end Development. Engineering with a Bachelor's degree focused in Information Technology from Azerbaijan State University of Oil and Industry. Motivated to learn new technologies, expanding knowledge day-by-day .I can work independently using my own initiative or as part of a team. I love trying out new technologies and update with modern tools helping our lives more easier.
 <!--
 **aidanatakishieva/aidanatakishieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
